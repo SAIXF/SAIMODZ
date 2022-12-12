@@ -2175,7 +2175,7 @@ do
 end
 
 
-		local L9s0 = library.new("Blox fruit GUI")
+		local L9s0 = library.new("FARM X HUB")
 
                           local M9s0 = L9s0:addPage("Auto Farm", 7010566435)
 
@@ -4310,7 +4310,7 @@ end
 
 		local library = loadstring(game:HttpGet("https://gist.githubusercontent.com/SaintGGH/47793e459824d440227cb9fade415897/raw/0e29e31f77a4e51d353b39743659c9ce24dad4ee/ADG.md"))()
 
-		local L9s0 = library.new("Blox fruit GUI")
+		local L9s0 = library.new("FARM X HUB")
 
                           local M9s0 = L9s0:addPage("Auto Farm", 7010566435)
 

@@ -18,3 +18,8 @@ Section:NewToggle("ToggleText", "ToggleInfo", function(state)
         print("Toggle Off")
     end
 end)
+
+
+Section:NewTextBox("TextboxText", "TextboxInfo", function(txt)
+	print(txt)
+end)
